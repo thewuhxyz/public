@@ -1,0 +1,16 @@
+{
+	"name": "Barn Project.",
+	"description": "Solana grants for everyone",
+	"image_url": null,
+	"objectives": [
+		"Build grant manager",
+		"Projects Leaderboard",
+		"Help & Contributions",
+		"Donations",
+		"RPRF"
+	],
+	"website": "https://barn.thewuh.xyz",
+	"github": "thewuhxyz/barn",
+	"twitter": "barnonsol",
+	"additional_info": []
+}

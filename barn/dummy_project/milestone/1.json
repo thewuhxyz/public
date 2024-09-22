@@ -1,0 +1,10 @@
+{
+	"name": "Milestone 1",
+	"description": "Build the grant manager",
+	"pr": [
+		"https://github.com/thewuhxyz/barn/pull/1",
+		"https://github.com/thewuhxyz/barn/pull/2",
+		"https://github.com/thewuhxyz/barn/pull/3"
+	],
+	"additional_info": []
+}
