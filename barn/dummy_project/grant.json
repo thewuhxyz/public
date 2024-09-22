@@ -1,7 +1,7 @@
 {
 	"name": "Barn | Public goods grant",
 	"description": "Public goods grant",
-	"discussion": "",
+	"discussion": "https://github.com/thewuhxyz/barn/discussions/4",
 	"objectives": [
 		"Build grant manager",
 		"Projects Leaderboard",
