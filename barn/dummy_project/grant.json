@@ -1,12 +1,9 @@
 {
-	"name": "Barn | Public goods grant",
-	"description": "Public goods grant",
+	"name": "Barn | OpenGrants",
+	"description": "Ship MVP",
 	"discussion": "https://github.com/thewuhxyz/barn/discussions/4",
 	"objectives": [
 		"Build grant manager",
-		"Projects Leaderboard",
-		"Help & Contributions",
-		"Donations",
-		"RPRF"
+		"Ship program to devnet"
 	]
 }
