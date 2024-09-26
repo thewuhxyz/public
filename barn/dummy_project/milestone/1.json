@@ -1,6 +1,6 @@
 {
 	"name": "Build the Grant Manager",
-	"description": "Build the grant manager MVP",
+	"description": "Build the grant manager",
 	"pr": [
 		"https://github.com/thewuhxyz/barn/pull/1",
 		"https://github.com/thewuhxyz/barn/pull/2",
