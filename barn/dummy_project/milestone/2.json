@@ -1,6 +1,6 @@
 {
-	"name": "Milestone 1",
-	"description": "Build the grant manager MVP",
+	"name": "Ship to Devnet",
+	"description": "Ship on-chain program to devnet",
 	"pr": [
 		"https://github.com/thewuhxyz/barn/pull/1",
 		"https://github.com/thewuhxyz/barn/pull/2",
