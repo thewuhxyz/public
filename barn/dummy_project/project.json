@@ -1,16 +1,17 @@
 {
-	"name": "Barn | OpenGrants",
-	"description": "Solana grants for everyone",
+	"name": "OpenFunds",
+	"description": "An open protocol for funding solana based projects in public.",
 	"image_url": null,
 	"objectives": [
-		"Build grant manager",
-		"Projects Leaderboard",
-		"Help & Contributions",
+		"Grants",
 		"Donations",
-		"RPRF"
+		"Help & Contributions",
+		"Idea loot",
+		"RPRF",
+		"SocialFi"
 	],
-	"website": "https://barn.thewuh.xyz",
+	"website": "https://openfunds.thewuh.xyz",
 	"github": "thewuhxyz/barn",
-	"twitter": "barnonsol",
+	"twitter": "openfundssolana",
 	"additional_info": []
 }
