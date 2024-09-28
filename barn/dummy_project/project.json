@@ -1,7 +1,7 @@
 {
 	"name": "OpenFunds",
 	"description": "An open protocol for funding solana based projects in public.",
-	"image_url": null,
+	"image_url": "https://raw.githubusercontent.com/thewuhxyz/barn/main/app/public/og.png",
 	"objectives": [
 		"Grants",
 		"Donations",
