@@ -1,7 +1,7 @@
 {
 	"name": "OpenGrants",
 	"description": "Open protocol for managing solana ecosystem grants on-chain.",
-	"image_url": "https://raw.githubusercontent.com/thewuhxyz/barn/main/app/public/of.png",
+	"image_url": "https://raw.githubusercontent.com/thewuhxyz/barn/main/app/public/og-dark.png",
 	"objectives": [
 		"Grant program manager",
 		"RFPs",
