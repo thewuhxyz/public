@@ -1,17 +1,16 @@
 {
-	"name": "OpenFunds",
-	"description": "An open protocol for funding solana based projects in public.",
+	"name": "OpenGrants",
+	"description": "Open protocol for managing solana ecosystem grants on-chain.",
 	"image_url": "https://raw.githubusercontent.com/thewuhxyz/barn/main/app/public/of.png",
 	"objectives": [
-		"Grants",
-		"Donations",
-		"Help & Contributions",
-		"Idea loot",
-		"RPRF",
-		"SocialFi"
+		"Grant program manager",
+		"RFPs",
+		"Private grants",
+		"RPGF",
+		"Public funding"
 	],
-	"website": "https://openfunds.thewuh.xyz",
+	"website": "https://opengrants.thewuh.xyz",
 	"github": "thewuhxyz/barn",
-	"twitter": "openfundssolana",
+	"twitter": "opengrantsolana",
 	"additional_info": []
 }
