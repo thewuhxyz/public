@@ -1,0 +1,11 @@
+{
+	"name": "Submit to Radar hackathon",
+	"description": "This milestone is for submitting to the Radar Hackathon.",
+	"pr": [
+		"https://github.com/thewuhxyz/barn/pull/1",
+		"https://github.com/thewuhxyz/barn/pull/2",
+		"https://github.com/thewuhxyz/barn/pull/3"
+	],
+	"discussion": "https://github.com/thewuhxyz/barn/discussions/4",
+	"additional_info": []
+}
