@@ -1,6 +1,6 @@
 {
-	"name": "Submit to Radar hackathon",
-	"description": "This milestone is for submitting to the Radar Hackathon.",
+	"name": "Beta release",
+	"description": "Beta release milestone",
 	"pr": [
 		"https://github.com/thewuhxyz/barn/pull/1",
 		"https://github.com/thewuhxyz/barn/pull/2",
